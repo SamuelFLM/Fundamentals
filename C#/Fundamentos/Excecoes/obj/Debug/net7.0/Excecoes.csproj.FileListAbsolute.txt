@@ -1,0 +1,14 @@
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Excecoes\obj\Debug\net7.0\Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Excecoes\obj\Debug\net7.0\Excecoes.AssemblyInfoInputs.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Excecoes\obj\Debug\net7.0\Excecoes.AssemblyInfo.cs
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Excecoes\obj\Debug\net7.0\Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Excecoes\bin\Debug\net7.0\Excecoes.exe
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Excecoes\bin\Debug\net7.0\Excecoes.deps.json
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Excecoes\bin\Debug\net7.0\Excecoes.runtimeconfig.json
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Excecoes\bin\Debug\net7.0\Excecoes.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Excecoes\bin\Debug\net7.0\Excecoes.pdb
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Excecoes\obj\Debug\net7.0\Excecoes.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Excecoes\obj\Debug\net7.0\refint\Excecoes.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Excecoes\obj\Debug\net7.0\Excecoes.pdb
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Excecoes\obj\Debug\net7.0\Excecoes.genruntimeconfig.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Excecoes\obj\Debug\net7.0\ref\Excecoes.dll

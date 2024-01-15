@@ -1,0 +1,14 @@
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Funcoes\obj\Debug\net7.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Funcoes\obj\Debug\net7.0\Funcoes.AssemblyInfoInputs.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Funcoes\obj\Debug\net7.0\Funcoes.AssemblyInfo.cs
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Funcoes\obj\Debug\net7.0\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Funcoes\bin\Debug\net7.0\Funcoes.exe
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Funcoes\bin\Debug\net7.0\Funcoes.deps.json
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Funcoes\bin\Debug\net7.0\Funcoes.runtimeconfig.json
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Funcoes\bin\Debug\net7.0\Funcoes.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Funcoes\bin\Debug\net7.0\Funcoes.pdb
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Funcoes\obj\Debug\net7.0\Funcoes.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Funcoes\obj\Debug\net7.0\refint\Funcoes.dll
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Funcoes\obj\Debug\net7.0\Funcoes.pdb
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Funcoes\obj\Debug\net7.0\Funcoes.genruntimeconfig.cache
+C:\Users\Lazer\OneDrive\Área de Trabalho\Fundamentals\C#\Fundamentos\Funcoes\obj\Debug\net7.0\ref\Funcoes.dll
